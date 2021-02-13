@@ -9,3 +9,5 @@ leetcode 문제 풀이
 |04|Tree|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|easy|
 |05|Permutations|[46. Permutations](https://leetcode.com/problems/permutations/)|medium|
 |06|Dynamic Programming|[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|medium|
+|07|Tree|[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|medium|
+|08|Combination|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|medium|
