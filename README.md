@@ -1,4 +1,8 @@
 # leetcode
+
+* rule
+PR -> 두 사람 리뷰 코멘트 -> 마지막 리뷰 한 사람이 merge
+
 leetcode 문제 풀이
 
 |  <center>No</center> |  <center>Category</center> | <center>Title</center> |  <center>Difficulty</center> | 
