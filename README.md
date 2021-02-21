@@ -15,3 +15,4 @@ leetcode 문제 풀이
 |06|Dynamic Programming|[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|medium|
 |07|Tree|[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|medium|
 |08|Combination|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|medium|
+|09|Dynamic Programming|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|medium|
