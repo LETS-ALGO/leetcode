@@ -10,7 +10,7 @@ class Solution {
             for(int j=0; j<i; j++){
                 // 이전까지의 수가 증가하는 배열인지
                 if(nums[i]>nums[j] && d[i] <= d[j]) d[i] = d[j]+1;
-                else if (nums[i] == nums[j]) d[i] = d[j];
+                //else if (nums[i] == nums[j]) d[i] = d[j];
             }
         }
         int answer = d[0];
