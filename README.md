@@ -21,4 +21,4 @@ leetcode 문제 풀이
 |12|String, Backtracking, Dfs, Recursion|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|medium|
 |13|Array, Union Find|[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|hard|
 |14|Graph, Dfs, Bfs, Recursion|[1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)|medium|
-|15|Graph, Dfs, Bfs, Recursion|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|medium|
+|15|Array, Two Pointers|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|medium|
