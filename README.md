@@ -19,6 +19,5 @@ leetcode 문제 풀이
 |10|Dynamic Programming|[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|medium|
 |11|Tree|[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|medium|
 |12|Greedy|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|medium|
-|13|Graph|[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hard|
-
-
+|13|Array, Union Find|[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|hard|
+|15|Array, Two Pointers|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|medium|
