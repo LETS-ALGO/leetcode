@@ -22,3 +22,5 @@ leetcode 문제 풀이
 |13|Array, Union Find|[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|hard|
 |14|Graph, Dfs, Bfs, Recursion|[1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)|medium|
 |15|Array, Two Pointers|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|medium|
+|16|LinkedList, Sort|[148. Sort List](https://leetcode.com/problems/sort-list/)|medium|
+|17|Union Find, Graph|[990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|medium|
