@@ -24,3 +24,6 @@ leetcode 문제 풀이
 |15|Array, Two Pointers|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|medium|
 |16|LinkedList, Sort|[148. Sort List](https://leetcode.com/problems/sort-list/)|medium|
 |17|Union Find, Graph|[990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|medium|
+|18|String, Backtracking|[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|medium|
+|19|Dynamic Programming|[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)|medium|
+|20|Dfs, Bfs, Topological Sort|[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|medium|
