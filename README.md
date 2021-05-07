@@ -27,3 +27,4 @@ leetcode 문제 풀이
 |18|String, Backtracking|[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|medium|
 |19|Dynamic Programming|[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)|medium|
 |20|Dfs, Bfs, Topological Sort|[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|medium|
+|22|Backtracking|[51. N-Queens](https://leetcode.com/problems/n-queens/)|hard|
