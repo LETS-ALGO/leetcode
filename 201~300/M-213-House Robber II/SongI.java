@@ -1,20 +1,22 @@
-class Solution {
+public class Solution {
     public int rob(int[] nums) {
-        if(nums.length == 1) return nums[0];
-        // 끝과 처음이 이어져 있기 때문에 나누어 생각한다.
-        // 처음부터 length-1
-        // 두번째 부터 length 까지
-        return Math.max(solve(nums, 0, nums.length-1), solve(nums,1, nums.length));
-    }
-    public int solve(int[] nums, int start, int end){
-        int include = 0, exclude = 0;
-
-        for(int i=start; i<end; i++){
-            int in = include;
-            int ex = exclude;
-            include = ex + nums[i];
-            exclude = Math.max(in, ex);
+        if (nums == null || nums.length == 0)
+            return 0;
+        int n = nums.length;
+        if (n == 1) {
+            return nums[0];
         }
-        return Math.max(include, exclude);
+        return Math.max(robHelper(nums, 0, n - 2), robHelper(nums, 1, n - 1));
+    }
+
+    private int robHelper(int[] nums, int start, int end) {
+        int curr, prev, prev2;
+        curr = prev = prev2 = 0;
+        for (int i = start; i <= end; i++) {
+            curr = Math.max(prev2 + nums[i], prev);
+            prev2 = prev;
+            prev = curr;
+        }
+        return curr;
     }
 }
