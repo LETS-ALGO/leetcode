@@ -30,3 +30,6 @@ leetcode 문제 풀이
 |21|Backtracking|[51. N-Queens](https://leetcode.com/problems/n-queens/)|hard|
 |22|Dynamic Programming, Bit Manipulation|[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|medium|
 |22|Topological Sort, Dfs, Memoization|[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|hard|
+|23|Array, Dfs|[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|medium|
+|24|Array, Tree, Dfs|[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|medium|
+|25|Hash Table, Two Pointers, String, Sliding Window|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|medium|
