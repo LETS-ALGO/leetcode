@@ -33,3 +33,6 @@ leetcode 문제 풀이
 |23|Array, Dfs|[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|medium|
 |24|Array, Tree, Dfs|[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|medium|
 |25|Hash Table, Two Pointers, String, Sliding Window|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|medium|
+|26|Array, Binary Search|[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|medium|
+|27|Hash Table, Bit Manipulation|[187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|medium|
+|28|Tree, Recursion|[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|medium|
