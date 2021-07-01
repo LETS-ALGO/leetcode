@@ -3,26 +3,19 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function (s) {
-  let start = 0; //시작 포인터
-  let end = 0; //끝 포인터
-  let map = {};
+  let start = 0; //부분 문자열 시작 인덱스
+  let map = new Map();
   let max = 0;
 
-  if (!s.length) return 0;
+  for (let i = 0; i < s.length; i++) {
+    //이미 확인한 문자라면 start 인덱스를 한칸 우측으로 옮긴다.
+    if (map.has(s[i])) start = Math.max(start, map.get(s[i]) + 1);
 
-  while (start !== s.length) {
-    const c = s[end]; //end 인덱스의 문자를 가져온다.
-    map[c] = (map[c] || 0) + 1; //map을 이용하여 문자의 개수를 세어 중복을 확인한다.
-
-    //중복되는 문자열이 존재할 경우
-    if (map[c] > 1 || end === s.length) {
-      max = Math.max(max, end - start);
-      start++;
-      end = start;
-      map = {};
-    } else {
-      end++;
-    }
+    //문자열의 인덱스를 갱신한다.
+    map.set(s[i], i);
+    
+    // i : 문자열 끝 인덱스 , start : 문자열 시작 인덱스
+    max = Math.max(max, i - start  + 1);
   }
 
   return max;
