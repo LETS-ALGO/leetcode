@@ -36,3 +36,4 @@ leetcode 문제 풀이
 |26|Array, Binary Search|[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|medium|
 |27|Hash Table, Bit Manipulation|[187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|medium|
 |28|Tree, Recursion|[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|medium|
+|29|Array, Dynamic Programming, Greedy|[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|easy|
