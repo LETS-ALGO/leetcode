@@ -40,3 +40,6 @@ leetcode 문제 풀이
 |30|String, Dynamic Programming, Backtracking|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|medium|
 |31|String, Stack, Greedy, Monotonic Stack|[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|medium|
 |32|Array, Binary Search, Divide and Conquer, Matrix|[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|medium|
+|33|Array, Dynamic Programming, Greedy|[55. Jump Game](https://leetcode.com/problems/jump-game/)|medium|
+|34|Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree|[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|medium|
+|35|Hash Table, String, Counting, Prefix Sum|[1737. Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/)|medium|
