@@ -45,3 +45,6 @@ leetcode 문제 풀이
 |35|Hash Table, String, Counting, Prefix Sum|[1737. Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/)|medium|
 |36|String, Dynamic Programming|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|medium|
 |37|Array, Dynamic Programming, Greedy|[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|medium|
+|38|Math, Binary Search, Prefix Sum, Randomized|[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|medium|
+|39|Hash Table, String, Design, Trie|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|medium|
+|40|Array, Binary Search, Sorting, Heap, Matrix|[378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|medium|
