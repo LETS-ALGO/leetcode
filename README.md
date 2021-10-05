@@ -48,3 +48,6 @@ leetcode 문제 풀이
 |38|Math, Binary Search, Prefix Sum, Randomized|[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|medium|
 |39|Hash Table, String, Design, Trie|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|medium|
 |40|Array, Binary Search, Sorting, Heap, Matrix|[378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|medium|
+|41|Array, Hash Table, Matrix|[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|medium|
+|42|Array, DFS, BFS, Matrix|[934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|medium|
+|43|Tree, DFS, BST, Binary Tree|[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|medium|
